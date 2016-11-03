@@ -1,0 +1,49 @@
+/* Matt Sterkel*/
+
+.index{ background-color: green; color: white;
+  background-image: url(https://www.testingmom.com/wp-content/uploads/WPPSI-wechsler-preschool-primary-scales-intelligence-superboy-300x200.jpeg);
+   background-repeat: no-repeat;
+    background-position: 500px 250px;
+     background-size: 300px 250px;
+       }
+
+ .link{
+   position: absolute;
+   text-decoration: none; color: black;
+     padding: 12px 20px;
+     display: inline-block;
+      background-color: #FF8C00;
+       font-size: 24;
+       border: 2px solid black
+  }
+  .link:hover{
+    background-color: orange;
+     text-decoration: none;
+      color: black
+  }
+   .center{text-align: center}
+
+.pg1{background-color: lightgrey;
+}
+#input1{
+  width:auto
+}
+
+.pg2{
+  background-color: lightblue;
+}
+.pg3{
+  background-color: #F4A460;
+}
+.result{
+ background-image: url(http://www.clipartkid.com/images/144/black-lagoon-the-second-barrage-episode-16-DzNg7E-clipart.jpg);
+  background-size:1400px 450px ;
+}
+.TextColor{
+  color: 	#4B0082;
+  border: 2px solid #a1a1a1;
+    padding: 10px 30px;
+    background: #dddddd;
+    width: 225px;
+    border-radius: 15px;
+  }
